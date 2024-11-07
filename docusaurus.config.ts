@@ -92,7 +92,7 @@ const config: Config = {
             style: 'dark',
             links: [
                 {
-                    title: 'Docs',
+                    title: '笔记',
                     items: [
                         {
                             label: 'Tutorial',
@@ -101,7 +101,7 @@ const config: Config = {
                     ],
                 },
                 {
-                    title: 'Community',
+                    title: '联系我',
                     items: [
                         {
                             label: 'Stack Overflow',
@@ -118,7 +118,7 @@ const config: Config = {
                     ],
                 },
                 {
-                    title: 'More',
+                    title: '更多',
                     items: [
                         {
                             label: 'Blog',
@@ -131,7 +131,7 @@ const config: Config = {
                     ],
                 },
             ],
-            copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+            copyright: `Copyright © ${new Date().getFullYear()} CNC自学.`,
         },
         prism: {
             theme: prismThemes.github,
